@@ -25,7 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Benefit.Service\Api.csproj" />
+    <ProjectReference Include="..\Api\Api.csproj" />
     <ProjectReference Include="..\Toolkit.Test\Toolkit.Test.csproj" />
     <ProjectReference Include="..\Toolkit\Toolkit.csproj" />
   </ItemGroup>
